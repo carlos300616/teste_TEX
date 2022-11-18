@@ -1,5 +1,6 @@
 # teste_TEX
-aula de gitHub
-meu primeiro branch alterado
+##aula de gitHub
+##meu primeiro branch alterado
 
-clonando repositório
+-Clonando repositório remoto
+
