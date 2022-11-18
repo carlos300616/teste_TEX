@@ -1,6 +1,6 @@
-# teste_TEX
-## aula de gitHub
-## meu primeiro branch alterado
+# Teste_TEX
+## Aula de gitHub
+## Meu primeiro branch alterado
 
 - Clonando repositório remoto
 
